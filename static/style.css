@@ -1,0 +1,28 @@
+
+body{
+    background-image: linear-gradient(to bottom right, lightblue, pink);
+
+}
+
+.container{
+    display: flex;
+    width: 10%;
+    height: auto;
+    margin: auto;
+    float: left;
+}
+
+.text {
+    height: auto;
+    width: auto;
+    margin-left: 20%;
+    float: left;
+    padding: 10%;
+}
+
+.title {
+    height: auto;
+    width: auto;
+    margin-left: 30%;
+    float: left;
+}
